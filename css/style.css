@@ -678,7 +678,7 @@ body._lock {
   color: #121621;
   opacity: 0.4;
   font-size: 15px;
-  margin: 0px 5px;
+  margin: 10px 5px;
 }
 
 .wrapper .main .section__1 .page__section_1 .form .form__button__seacrh {
@@ -690,6 +690,7 @@ body._lock {
   font-size: 18px;
   margin-top: 30px;
   float: right;
+  margin: 0px 5px;
 }
 
 .wrapper .main .section2 {
